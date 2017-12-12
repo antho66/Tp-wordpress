@@ -1,0 +1,9 @@
+
+#pop-up{
+    background: #fff;
+    border: 14px solid red;
+    position: fixed;
+    width: 395px;
+    top: 24%;
+    left: 38%;
+}
